@@ -1,2 +1,3 @@
-print("helloy world!")
-print("Helloy")
+print("helloy world;")
+print("Helloy;")
+print("helloy my frend;")
